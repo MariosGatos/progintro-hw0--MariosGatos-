@@ -7,3 +7,4 @@ Bandit 5: lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
 Bandit 6: P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 Bandit 7: z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
 Bandit 8: TESKZC0XvTetK0S9xNwm25STk5iWrBvP
+Bandit 9: EN632PlfYiZbn3PhVK3XOGSlNInNE00t
